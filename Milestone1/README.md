@@ -1,9 +1,10 @@
-# WQD7005 - Web Crawling Assignment 1
+# WQD7005 - Web Crawling: Milestone 1
 
-This file is coded
+For Data Mining assignment in Milestone 1, we have choosed a dataset in Financial Industry domain from BNM website on currency exchange rates.  
+
+This file is coded in group by: 
 Firdaus (WQD170070)
-Azira (WQD170083)
-
+Siti Azira (WQD170083)
 
 # Files
 
